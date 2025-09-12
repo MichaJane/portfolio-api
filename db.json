@@ -1,0 +1,114 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Portfolio Dashboard",
+      "description": "A personal portfolio dashboard website built using Angular",
+      "status": "inProgress",
+      "liveUrl": "https://portfolio-dashboard-v1.netlify.app",
+      "codeUrl": "https://github.com/MichaJane/Portfolio-Dashboard.git"
+    },
+    {
+      "id": 2,
+      "title": "Camping Website",
+      "description": "A responsive website for camping enthusiasts",
+      "status": "upcoming"
+    },
+    {
+      "id": 3,
+      "title": "To Do list App",
+      "description": "HTML, CSS, VUE.JS",
+      "status": "upcoming"
+    },
+    {
+      "id": 4,
+      "title": "Business Website",
+      "description": "A responsive website for business",
+      "status": "upcoming"
+    },
+    {
+      "id": 5,
+      "title": "TaskBoard",
+      "description": "A mini task management website built using Angular",
+      "status": "inProgress",
+      "codeUrl": "https://github.com/MichaJane/task-board.git"
+    }
+  ],
+
+  "experiences": [
+   {
+      "id": 1,
+      "role": "Frontend Developer",
+      "company": "Inchcape",
+      "start": "2023",
+      "end": "2025",
+      "description": "Built UI components and supported feature implementations for an automotive platform using Angular."
+    },
+    {
+      "id": 2,
+      "role": "Wordpress Developer - Work Immersion",
+      "company": "University of the East",
+      "start": "2023",
+      "end": "2023",
+      "description": "Maintained and updated the CFAD website using WordPress and Elementor."
+    }
+  ],
+
+  "certifications": [
+    {
+      "id": 1,
+      "title": "HCIA Artificial Intelligence",
+      "issuer": "Huawei",
+      "logo": "assets/logos/udemy.png",
+      "date": "2022"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Essentials 1",
+      "issuer": "Cisco Networking Academy",
+      "logo": "assets/logos/udemy.png",
+      "date": "2023"
+    },
+    {
+      "id": 3,
+      "title": "Reactive Angular Course",
+      "issuer": "Udemy",
+      "logo": "assets/logos/udemy.png",
+      "date": "2024"
+    },
+    {
+      "id": 4,
+      "title": "Mastering TypeScript (2024 Edition)",
+      "issuer": "Udemy",
+      "logo": "assets/logos/udemy.png",
+      "date": "2025"
+    },
+    {
+      "id": 5,
+      "title": "Angular: The Complete Guide (2024 Edition)",
+      "issuer": "Udemy",
+      "logo": "assets/logos/udemy.png",
+      "date": "2025"
+    }
+  ],
+
+  "aboutMe": {
+    "name": "Michaela Faustino",
+    "title": "Frontend Developer",
+    "bio": "I'm a Frontend developer with experience in Angular, TypeScript, and HTML/CSS. I enjoy building dynamic, responsive websites and I'm particularly interested in roles related to web development. My goal is to continue growing as a developer and contribute to meaningful projects. Outside coding, I spend time learning and exploring tools.",
+    "skills": [
+      { "name": "Angular", "level": 60},
+      { "name": "TypeScript", "level": 60},
+      { "name": "JavaScript", "level": 60},
+      { "name": "HTML5", "level": 95},
+      { "name": "CSS3", "level": 90},
+      { "name": "SCSS", "level": 75},
+      { "name": "Bootstrap", "level": 70}
+    ],
+    "contact": {
+      "email": "faustino.michajane@gmail.com",
+      "linkedin": "https://linkedin.com/in/mjane-faustino05",
+      "github": "https://github.com/MichaJane"
+    }
+  }
+}
